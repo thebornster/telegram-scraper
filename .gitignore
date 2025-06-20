@@ -1,0 +1,4 @@
+.env
+telegram_posts.json
+__pycache__/
+/venv
